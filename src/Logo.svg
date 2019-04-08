@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164.774" height="143.988" viewBox="0 0 164.774 143.988">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #91b575;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #91b575;
+        stroke-width: 15px;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 22px;
+        letter-spacing: 0.025em;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: LucidaGrande, Lucida Grande;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: Nadeem;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.016em;
+      }
+    </style>
+  </defs>
+  <g id="Logo" transform="translate(-1806.749 -2405.552)">
+    <path id="Tracé_10" data-name="Tracé 10" class="cls-1" d="M-233.646,1852.863s36.525-52.136,66.641-57.52,53.821,35.986,53.821,35.986l21.708-22.393-75.528-50.3-44.566,36.7v-13.627h-14.817v25.291l-29.863,24.323Z" transform="translate(2063 646.911)"/>
+    <path id="Tracé_25" data-name="Tracé 25" class="cls-2" d="M375.146,2294.3c46.243,22.1,72.736-16.1,72.736-16.1" transform="translate(1490.34 240.728)"/>
+    <text id="HAbitAt_Partage" data-name="HAbitAt
+&amp;Partage" class="cls-3" transform="translate(1849.341 2491.054)"><tspan x="0" y="0">HAbitAt</tspan><tspan class="cls-4" y="0"></tspan><tspan class="cls-5"><tspan x="0" y="17">&amp;</tspan><tspan class="cls-6" y="17">Partage</tspan></tspan></text>
+    <path id="Tracé_30" data-name="Tracé 30" class="cls-1" d="M1501.58,2094.037h8.133l-3.86-9.669Z" transform="translate(367.742 391.675)"/>
+    <path id="Tracé_32" data-name="Tracé 32" class="cls-1" d="M1502.7,2094.261h7.856l-3.864-9.526Z" transform="translate(412.801 391.207)"/>
+    <path id="Tracé_37" data-name="Tracé 37" class="cls-1" d="M-233.646,1852.863s36.525-52.136,66.641-57.52,53.821,35.986,53.821,35.986l21.708-22.393-75.528-50.3-44.566,36.7v-13.627h-14.817v25.291l-29.863,24.323Z" transform="translate(2063 646.911)"/>
+  </g>
+</svg>

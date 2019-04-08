@@ -1,0 +1,74 @@
+
+p {
+  color: #FFFFFF;
+  font-family: helvetica;
+}
+h2{
+  color: #FFFFFF;
+  font-family: helvetica;
+
+}
+body {
+color: #FFFFFF;
+
+}
+.background-section{
+  background-color: #366E4D;
+  background-image:linear-gradient(to bottom, #366E4D, #42835E);
+  width: 100%;
+
+}
+.container-fluid  {
+
+  margin: 0px;
+  padding: 0px;
+}
+.header-logo {
+  position: absolute;
+  top: 30px;
+  left: 60px;
+  width: 10%;
+}
+.title-header {
+  color: #FFFFFF;
+  z-index: 1;
+}
+
+.bulle-pierre {
+  background-image: url(file:///Users/julienbonnanfant/Desktop/Boot//src/bulle-pierre.svg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+
+}
+
+
+.bulle-paul {
+  background-image: url(file:///Users/julienbonnanfant/Desktop/Boot//src/bulle-jack.svg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+
+}
+.bulle-jack {
+  background-image: url(file:///Users/julienbonnanfant/Desktop/Boot//src/bulle-paul.svg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+
+}
+.card {
+  border-radius:12px;
+  background-color: #91B575;
+  color: #FFFFFF;
+  border:none;
+}
+.btn-primary{
+  background-color: #366E4D;
+}
+.btn-secondary{
+  background-color: #91B575;
+  border: none;
+  border-radius: 26px;
+
+}

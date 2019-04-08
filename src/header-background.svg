@@ -1,0 +1,52 @@
+<svg id="header-background" xmlns="http://www.w3.org/2000/svg" width="1920" height="488.556" viewBox="0 0 1920 488.556">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3c7956;
+      }
+
+      .cls-2 {
+        fill: #42835e;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: rgba(106,60,7,0.79);
+        stroke-linecap: round;
+        stroke-width: 6px;
+      }
+
+      .cls-4 {
+        fill: rgba(150,193,31,0.67);
+      }
+    </style>
+  </defs>
+  <g id="bg-secondaire-1" transform="translate(0 0.018)">
+    <path id="bg-layer1-partie1" class="cls-1" d="M6830.985-876.025l1920-.246v359.166s-242.915,132.223-662.474,129.344S7614.376-563.63,7351.039-563.58,6831.16-445.756,6831.16-445.756Z" transform="translate(-6830.985 876.253)"/>
+    <path id="bg-layer2-partie1" class="cls-2" d="M6832.094-786.584s50.784,138.028,297.227,140.38,529.189-155.5,657.6-155.051S7955.892-533.9,8314.768-535.6s437.326-280.945,437.326-280.945V-876.9l-1919.979-.4Z" transform="translate(-6832.094 877.281)"/>
+  </g>
+  <g id="Arbres" transform="translate(1023 47)">
+    <line id="Ligne_5" data-name="Ligne 5" class="cls-3" y1="84.839" transform="translate(381.846 209.709)"/>
+    <line id="Ligne_6" data-name="Ligne 6" class="cls-3" y1="37.706" x2="28.28" transform="translate(381.846 228.562)"/>
+    <line id="Ligne_7" data-name="Ligne 7" class="cls-3" x1="28.28" y1="37.706" transform="translate(353.566 228.562)"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-4" cx="15.711" cy="15.711" r="15.711" transform="translate(330 201.853)"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-4" cx="17.282" cy="17.282" r="17.282" transform="translate(364.564 183)"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-4" cx="15.711" cy="15.711" r="15.711" transform="translate(405.413 204.995)"/>
+  </g>
+  <g id="Arbres-2" data-name="Arbres" transform="translate(1397 -133)">
+    <line id="Ligne_5-2" data-name="Ligne 5" class="cls-3" y1="84.839" transform="translate(381.846 209.709)"/>
+    <line id="Ligne_6-2" data-name="Ligne 6" class="cls-3" y1="37.706" x2="28.28" transform="translate(381.846 228.562)"/>
+    <line id="Ligne_7-2" data-name="Ligne 7" class="cls-3" x1="28.28" y1="37.706" transform="translate(353.566 228.562)"/>
+    <circle id="Ellipse_8-2" data-name="Ellipse 8" class="cls-4" cx="15.711" cy="15.711" r="15.711" transform="translate(330 201.853)"/>
+    <circle id="Ellipse_9-2" data-name="Ellipse 9" class="cls-4" cx="17.282" cy="17.282" r="17.282" transform="translate(364.564 183)"/>
+    <circle id="Ellipse_10-2" data-name="Ellipse 10" class="cls-4" cx="15.711" cy="15.711" r="15.711" transform="translate(405.413 204.995)"/>
+  </g>
+  <g id="Arbres-3" data-name="Arbres" transform="translate(-69 130)">
+    <line id="Ligne_5-3" data-name="Ligne 5" class="cls-3" y1="84.839" transform="translate(381.846 209.709)"/>
+    <line id="Ligne_6-3" data-name="Ligne 6" class="cls-3" y1="37.706" x2="28.28" transform="translate(381.846 228.562)"/>
+    <line id="Ligne_7-3" data-name="Ligne 7" class="cls-3" x1="28.28" y1="37.706" transform="translate(353.566 228.562)"/>
+    <circle id="Ellipse_8-3" data-name="Ellipse 8" class="cls-4" cx="15.711" cy="15.711" r="15.711" transform="translate(330 201.853)"/>
+    <circle id="Ellipse_9-3" data-name="Ellipse 9" class="cls-4" cx="17.282" cy="17.282" r="17.282" transform="translate(364.564 183)"/>
+    <circle id="Ellipse_10-3" data-name="Ellipse 10" class="cls-4" cx="15.711" cy="15.711" r="15.711" transform="translate(405.413 204.995)"/>
+  </g>
+</svg>
