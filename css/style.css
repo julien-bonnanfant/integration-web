@@ -1,7 +1,44 @@
 body {
 color: #FFFFFF;
 font-family: helvetica;
+padding:0;
+margin: 0;
+background-color:#42835E;
 }
+html{
+  padding: 0;
+  margin: 0;
+}
+iframe{
+  margin: 30px;
+}
+input {
+      overflow: visible;
+      display: block;
+      border-radius: 20px;
+      border: none;
+      background-color: rgb(255,255,255,0.2);
+      color: #FFFFFF;
+
+  }
+  input:focus {
+    outline: 0;
+  }
+
+  textarea {
+        overflow: visible;
+        display: block;
+        border-radius: 20px;
+        border: none;
+        background-color: rgb(255,255,255,0.2);
+        color: #FFFFFF;
+    }
+
+
+.col-3 {
+  padding-right: : 0 !important;
+}
+
 .background-section{
   background-image:linear-gradient(to bottom, #366E4D, #42835E);
   width: 100%;
@@ -16,28 +53,43 @@ font-family: helvetica;
   left: 60px;
   width: 10%;
 }
+.title-header {
+  position: relative;
+  top: -23vh;
+}
 .bubble {
   background-size: 100%;
   background-repeat: no-repeat;
+}
+.bubble p {
+  margin-bottom: 80px;
 }
 .bubble-pierre {
   background-image: url('../src/bulle-pierre.svg');
 }
 .bubble-paul {
-  background-image: url(file:///Users/julienbonnanfant/Documents/YnovB2/Cours/Web/Boot//src/bulle-paul.svg);
+  background-image: url('../src/bulle-paul.svg');
 }
 .bubble-jack {
-  background-image: url(file:///Users/julienbonnanfant/Documents/YnovB2/Cours/Web/Boot//src/bulle-jack.svg);
+  background-image: url('../src/bulle-jack.svg');
 }
 .card {
   border-radius:12px;
   background-color: #91B575;
   border:none;
   box-shadow: 2px 2px 4px 1px rgba(0,0,0,0.75);
+  padding-right: 0px;
 }
+
 .btn-primary{
   background-color: #366E4D;
   border-radius: 26px;
+  border:none;
+}
+.btn-primary:hover {
+  background-color: #91B575;
+
+
 }
 .btn-secondary{
   background-color: #91B575;
