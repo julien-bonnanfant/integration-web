@@ -1,25 +1,12 @@
-
-p {
-  color: #FFFFFF;
-  font-family: helvetica;
-}
-h2{
-  color: #FFFFFF;
-  font-family: helvetica;
-
-}
 body {
 color: #FFFFFF;
-
+font-family: helvetica;
 }
 .background-section{
-  background-color: #366E4D;
   background-image:linear-gradient(to bottom, #366E4D, #42835E);
   width: 100%;
-
 }
 .container-fluid  {
-
   margin: 0px;
   padding: 0px;
 }
@@ -29,34 +16,23 @@ color: #FFFFFF;
   left: 60px;
   width: 10%;
 }
-.title-header {
-  color: #FFFFFF;
-}
-.bulle-pierre {
-  background-image: url(file:///Users/julienbonnanfant/Documents/YnovB2/Cours/Web/Boot//src/bulle-pierre.svg);
+.bubble {
   background-size: 100%;
   background-repeat: no-repeat;
-  color: #FFFFFF;
 }
-.bulle-paul {
+.bubble-pierre {
+  background-image: url('../src/bulle-pierre.svg');
+}
+.bubble-paul {
   background-image: url(file:///Users/julienbonnanfant/Documents/YnovB2/Cours/Web/Boot//src/bulle-paul.svg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  color: #FFFFFF;
 }
-.bulle-jack {
+.bubble-jack {
   background-image: url(file:///Users/julienbonnanfant/Documents/YnovB2/Cours/Web/Boot//src/bulle-jack.svg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  color: #FFFFFF;
 }
 .card {
   border-radius:12px;
   background-color: #91B575;
-  color: #FFFFFF;
   border:none;
-  -webkit-box-shadow: 2px 2px 4px 1px rgba(0,0,0,0.75);
-  -moz-box-shadow: 2px 2px 4px 1px rgba(0,0,0,0.75);
   box-shadow: 2px 2px 4px 1px rgba(0,0,0,0.75);
 }
 .btn-primary{
@@ -67,5 +43,4 @@ color: #FFFFFF;
   background-color: #91B575;
   border: none;
   border-radius: 26px;
-
 }
