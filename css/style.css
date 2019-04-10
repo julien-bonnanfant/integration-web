@@ -1,9 +1,9 @@
 body {
-color: #FFFFFF;
-font-family: helvetica;
-padding:0;
-margin: 0;
-background-color:#42835E;
+  color: #FFFFFF;
+  font-family: helvetica;
+  padding:0;
+  margin: 0;
+  background-color:#42835E;
 }
 html{
   padding: 0;
@@ -13,32 +13,37 @@ iframe{
   margin: 30px;
 }
 input {
-      overflow: visible;
-      display: block;
-      border-radius: 20px;
-      border: none;
-      background-color: rgb(255,255,255,0.2);
-      color: #FFFFFF;
-
-  }
-  input:focus {
+  overflow: visible;
+  display: block;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(255,255,255,0.2);
+  color: #FFFFFF;
+  padding-left: 10px;
+  margin: 39px 0px 0px 0px;
+}
+h2{
+  margin-top: 31px;
+  margin-bottom: 31px;
+}
+input:focus {
+  outline: 0;
+}
+textarea {
+  overflow: visible;
+  display: block;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(255,255,255,0.2);
+  color: #FFFFFF;
+  padding-left: 10px;
+  margin: 39px 0px 0px 0px;
     outline: 0;
-  }
 
-  textarea {
-        overflow: visible;
-        display: block;
-        border-radius: 20px;
-        border: none;
-        background-color: rgb(255,255,255,0.2);
-        color: #FFFFFF;
-    }
-
-
+}
 .col-3 {
   padding-right: : 0 !important;
 }
-
 .background-section{
   background-image:linear-gradient(to bottom, #366E4D, #42835E);
   width: 100%;
@@ -56,6 +61,27 @@ input {
 .title-header {
   position: relative;
   top: -23vh;
+  animation: anim-title 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+.subtitle-header{
+  position: relative;
+  top: -23vh;
+  animation: anim-title 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+
+}
+@keyframes anim-title {
+  0% {
+    letter-spacing: 1.2em;
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    letter-spacing: normal;
+    opacity: 1;
+  }
 }
 .bubble {
   background-size: 100%;
@@ -67,11 +93,23 @@ input {
 .bubble-pierre {
   background-image: url('../src/bulle-pierre.svg');
 }
+.bubble-pierre p {
+  padding-left: 7%;
+  padding-top: 5%;
+}
 .bubble-paul {
   background-image: url('../src/bulle-paul.svg');
 }
+.bubble-paul p {
+  padding-left: 9%;
+  padding-top: 6%;
+}
 .bubble-jack {
   background-image: url('../src/bulle-jack.svg');
+}
+.bubble-jack p {
+  padding-left: 7%;
+  padding-top: 6%;
 }
 .card {
   border-radius:12px;
@@ -79,6 +117,8 @@ input {
   border:none;
   box-shadow: 2px 2px 4px 1px rgba(0,0,0,0.75);
   padding-right: 0px;
+  width: 18rem;
+  margin: auto;
 }
 
 .btn-primary{
@@ -88,11 +128,14 @@ input {
 }
 .btn-primary:hover {
   background-color: #91B575;
-
-
 }
 .btn-secondary{
   background-color: #91B575;
   border: none;
   border-radius: 26px;
+
+  margin: 55px 0px 55px 0px;
+}
+.row{
+  text-align: center
 }

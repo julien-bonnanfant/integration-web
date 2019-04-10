@@ -1,19 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="612.939" height="128.797" viewBox="0 0 612.939 128.797">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="612.939" height="177.735" viewBox="0 0 612.939 177.735">
   <defs>
-    <style>
-      .cls-1 {
-        fill: #91b575;
-      }
-
-      .cls-2 {
-        filter: url(#Tracé_44);
-      }
-
-      .cls-3 {
-        filter: url(#choix4);
-      }
-    </style>
-    <filter id="choix4" x="58.379" y="2.37" width="554.561" height="126.427" filterUnits="userSpaceOnUse">
+    <filter id="choix4" x="58.379" y="2.37" width="554.561" height="175.365" filterUnits="userSpaceOnUse">
       <feOffset dy="5" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feFlood flood-opacity="0.161"/>
@@ -29,12 +16,12 @@
     </filter>
   </defs>
   <g id="bulle-paul" transform="translate(-12695.38 -2946.345)">
-    <g class="cls-3" transform="matrix(1, 0, 0, 1, 12695.38, 2946.35)">
-      <rect id="choix4-2" data-name="choix4" class="cls-1" width="536.561" height="108.427" rx="15" transform="translate(67.38 6.37)"/>
+    <g transform="matrix(1, 0, 0, 1, 12695.38, 2946.35)" filter="url(#choix4)">
+      <rect id="choix4-2" data-name="choix4" width="536.561" height="157.365" rx="15" transform="translate(67.38 6.37)" fill="#91b575"/>
     </g>
-    <g class="cls-2" transform="matrix(1, 0, 0, 1, 12695.38, 2946.35)">
-      <path id="Tracé_44-2" data-name="Tracé 44" class="cls-1" d="M8930.562,389.715l-62.772-31.37h95.969Z" transform="translate(-8858.79 -352.35)"/>
+    <g transform="matrix(1, 0, 0, 1, 12695.38, 2946.35)" filter="url(#Tracé_44)">
+      <path id="Tracé_44-2" data-name="Tracé 44" d="M8930.562,389.715l-62.772-31.37h95.969Z" transform="translate(-8858.79 -352.35)" fill="#91b575"/>
     </g>
-    <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-1" width="42" height="35" transform="translate(12763 2952.715)"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="42" height="35" transform="translate(12763 2952.715)" fill="#91b575"/>
   </g>
 </svg>
