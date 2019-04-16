@@ -112,7 +112,8 @@ textarea {
   padding-top: 6%;
 }
 .card {
-  border-radius:12px;
+  border-radius:20px 20px 12px 12px;
+
   background-color: #91B575;
   border:none;
   box-shadow: 2px 2px 4px 1px rgba(0,0,0,0.75);
